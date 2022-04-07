@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/ourcodeworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ourcodeworld" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/carlos-fernando-delgado-maldonado-ourcodeworld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-fernando-delgado-maldonado-ourcodeworld/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/4241030/carlos-delgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4241030/carlos-delgado" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4241030/carlos-delgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/4241030/carlos-delgado" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ourcodeworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ourcodeworld" height="30" width="40" /></a>
 </p>
 
