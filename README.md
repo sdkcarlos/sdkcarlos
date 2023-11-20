@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Delgado</h1>
 <h3 align="center">A passionate Full Stack developer from Colombia</h3>
 
-- 🔭 I'm currently professionally working as a PHP Senior Software Engineer at [EPAM Anywhere](https://anywhere.epam.com/en)
+- 🔭 I'm currently professionally working as a PHP Senior Software Engineer at [Software Medico](https://softwaremedico.com.co/)
 
 - 🔭 I’m currently working as well on [Our Code World](https://ourcodeworld.com/)
 
